@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: linear-gradient(rgb(103, 250, 132),rgb(241, 22, 219));
+    background-repeat: no-repeat;
+}
+
+.top-font{
+    color: rgb(222, 58, 88);
+    font-size: 30px;
+    margin-top: -45px;
+    margin-left: -100px;
+    font-family: 'Pacifico', cursive;
+}
+
+.top-font-2{
+    color: rgb(157, 255, 0);
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: -100px;
+    font-family: 'Pacifico', cursive;
+}
