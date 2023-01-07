@@ -1,0 +1,5 @@
+-> Install php apache in one server
+-> Install mysql in another
+-> comment bind-address in mysql config. then things may make connection between each other.
+-> don't forget to install php-mysql otherwise nothing will connect.
+-> find one file in the directory and generate things up.
